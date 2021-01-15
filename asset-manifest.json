@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07b2766f.chunk.css",
+    "main.js": "/static/js/main.c78157b8.chunk.js",
+    "main.js.map": "/static/js/main.c78157b8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ffd7881d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ffd7881d.js.map",
+    "static/js/2.f13c702e.chunk.js": "/static/js/2.f13c702e.chunk.js",
+    "static/js/2.f13c702e.chunk.js.map": "/static/js/2.f13c702e.chunk.js.map",
+    "static/js/3.1bde93d0.chunk.js": "/static/js/3.1bde93d0.chunk.js",
+    "static/js/3.1bde93d0.chunk.js.map": "/static/js/3.1bde93d0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.07b2766f.chunk.css.map": "/static/css/main.07b2766f.chunk.css.map",
+    "static/js/2.f13c702e.chunk.js.LICENSE.txt": "/static/js/2.f13c702e.chunk.js.LICENSE.txt",
+    "static/media/S1.3a44e1e5.jpg": "/static/media/S1.3a44e1e5.jpg",
+    "static/media/bgFlowerH.c8b38227.jpg": "/static/media/bgFlowerH.c8b38227.jpg",
+    "static/media/dry-flower.4c8401ca.png": "/static/media/dry-flower.4c8401ca.png",
+    "static/media/me.8aa7d011.jpg": "/static/media/me.8aa7d011.jpg",
+    "static/media/main.css": "/static/media/menu-on.b5aaaf94.png",
+    "static/media/tape.d8cf1cc7.png": "/static/media/tape.d8cf1cc7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffd7881d.js",
+    "static/js/2.f13c702e.chunk.js",
+    "static/css/main.07b2766f.chunk.css",
+    "static/js/main.c78157b8.chunk.js"
+  ]
+}
