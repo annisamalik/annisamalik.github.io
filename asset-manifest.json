@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.07b2766f.chunk.css",
-    "main.js": "/static/js/main.c78157b8.chunk.js",
-    "main.js.map": "/static/js/main.c78157b8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ffd7881d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ffd7881d.js.map",
-    "static/js/2.f13c702e.chunk.js": "/static/js/2.f13c702e.chunk.js",
-    "static/js/2.f13c702e.chunk.js.map": "/static/js/2.f13c702e.chunk.js.map",
-    "static/js/3.1bde93d0.chunk.js": "/static/js/3.1bde93d0.chunk.js",
-    "static/js/3.1bde93d0.chunk.js.map": "/static/js/3.1bde93d0.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.07b2766f.chunk.css.map": "/static/css/main.07b2766f.chunk.css.map",
-    "static/js/2.f13c702e.chunk.js.LICENSE.txt": "/static/js/2.f13c702e.chunk.js.LICENSE.txt",
-    "static/media/S1.3a44e1e5.jpg": "/static/media/S1.3a44e1e5.jpg",
-    "static/media/bgFlowerH.c8b38227.jpg": "/static/media/bgFlowerH.c8b38227.jpg",
-    "static/media/dry-flower.4c8401ca.png": "/static/media/dry-flower.4c8401ca.png",
-    "static/media/me.8aa7d011.jpg": "/static/media/me.8aa7d011.jpg",
-    "static/media/main.css": "/static/media/menu-on.b5aaaf94.png",
-    "static/media/tape.d8cf1cc7.png": "/static/media/tape.d8cf1cc7.png"
+    "main.css": "/annisamalik/static/css/main.0144b1e9.chunk.css",
+    "main.js": "/annisamalik/static/js/main.081ba53c.chunk.js",
+    "main.js.map": "/annisamalik/static/js/main.081ba53c.chunk.js.map",
+    "runtime-main.js": "/annisamalik/static/js/runtime-main.548c179a.js",
+    "runtime-main.js.map": "/annisamalik/static/js/runtime-main.548c179a.js.map",
+    "static/js/2.f13c702e.chunk.js": "/annisamalik/static/js/2.f13c702e.chunk.js",
+    "static/js/2.f13c702e.chunk.js.map": "/annisamalik/static/js/2.f13c702e.chunk.js.map",
+    "static/js/3.1bde93d0.chunk.js": "/annisamalik/static/js/3.1bde93d0.chunk.js",
+    "static/js/3.1bde93d0.chunk.js.map": "/annisamalik/static/js/3.1bde93d0.chunk.js.map",
+    "index.html": "/annisamalik/index.html",
+    "static/css/main.0144b1e9.chunk.css.map": "/annisamalik/static/css/main.0144b1e9.chunk.css.map",
+    "static/js/2.f13c702e.chunk.js.LICENSE.txt": "/annisamalik/static/js/2.f13c702e.chunk.js.LICENSE.txt",
+    "static/media/S1.3a44e1e5.jpg": "/annisamalik/static/media/S1.3a44e1e5.jpg",
+    "static/media/bgFlowerH.c8b38227.jpg": "/annisamalik/static/media/bgFlowerH.c8b38227.jpg",
+    "static/media/dry-flower.4c8401ca.png": "/annisamalik/static/media/dry-flower.4c8401ca.png",
+    "static/media/me.8aa7d011.jpg": "/annisamalik/static/media/me.8aa7d011.jpg",
+    "static/media/main.css": "/annisamalik/static/media/menu-on.b5aaaf94.png",
+    "static/media/tape.d8cf1cc7.png": "/annisamalik/static/media/tape.d8cf1cc7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffd7881d.js",
+    "static/js/runtime-main.548c179a.js",
     "static/js/2.f13c702e.chunk.js",
-    "static/css/main.07b2766f.chunk.css",
-    "static/js/main.c78157b8.chunk.js"
+    "static/css/main.0144b1e9.chunk.css",
+    "static/js/main.081ba53c.chunk.js"
   ]
 }
