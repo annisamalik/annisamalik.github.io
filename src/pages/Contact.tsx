@@ -93,7 +93,7 @@ export const Contact: React.FC = () => {
             {Array(socialMedia.length)
               .fill("")
               .map((_, i) => (
-                <CustomBox>
+                <CustomBox label={socialMedia[i][0] as string}>
                   <Icon icon={socialMedia[i][2] as IconifyIcon} />
                 </CustomBox>
               ))}
