@@ -151,19 +151,19 @@ export const Home: React.FC = () => {
                     </a>
                   </p>
                   <HStack spacing={5}>
-                    <CustomBox>
+                    <CustomBox label="Mail Me!">
                       <Icon icon={gmailIcon} />
                     </CustomBox>
-                    <CustomBox>
+                    <CustomBox label="Linked In">
                       <Icon icon={linkedinRect} />
                     </CustomBox>
-                    <CustomBox>
+                    <CustomBox label="Code Resp">
                       <Icon icon={githubIcon} />
                     </CustomBox>
-                    <CustomBox>
+                    <CustomBox label="">
                       <Icon icon={twitterBird} />
                     </CustomBox>
-                    <CustomBox>
+                    <CustomBox label="Social">
                       <Icon icon={instagramIcon} />
                     </CustomBox>
                   </HStack>

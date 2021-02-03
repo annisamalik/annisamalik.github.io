@@ -41,10 +41,11 @@ export const Navbar: React.FC = () => {
     <Router>
       <Flex
         zIndex={5}
-        pos="fixed"
+        pos="sticky"
         as="nav"
         bg={bg}
         w="100%"
+        top={0}
         px={5}
         py={2}
         justifyContent="space-between"

@@ -3,12 +3,13 @@ import { SlideFade, Center, Wrap, Tooltip } from "@chakra-ui/react";
 
 interface IProps {
   children: React.ReactNode;
+  label: string;
 }
 
-export const CustomBox = ({ children }: IProps) => {
+export const CustomBox = ({ children, label }: IProps) => {
   return (
     <SlideFade in={true} offsetY="20px">
-      <Tooltip hasArrow label="Search places" bg="gray.300" color="black">
+      <Tooltip hasArrow label={label} bg="gray.300" color="black">
         <Wrap>
           <Center
             w="40px"
