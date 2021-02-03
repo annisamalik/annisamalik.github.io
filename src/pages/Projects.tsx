@@ -136,6 +136,14 @@ export const Projects: React.FC = () => {
       desc: "A web where you get to know your basic skin care needs",
       tech: ["React Native", "Javascript", "GraphQl", "TypeScript"],
     },
+    {
+      imageUrl: "https://bit.ly/2Z4KKcF",
+      imageAlt: "Skin",
+      title: "Wallflower Bloom",
+      category: "WEB APP",
+      desc: "A landing page of visual novel",
+      tech: ["HTML", "Javascript", "CSS", "Monogatari"],
+    },
   ];
   return (
     <ChakraProvider theme={themes}>
