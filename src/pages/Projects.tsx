@@ -50,6 +50,7 @@ const ProjectItem = ({ project, ...props }: IProps) => (
     borderRadius="lg"
     overflow="hidden"
     backgroundColor={themes.colors.creame}
+    margin="10px"
   >
     <Image maxH={200} src={project.imageUrl} alt={project.imageAlt} />
 
@@ -116,7 +117,7 @@ export const Projects: React.FC = () => {
       imageAlt: "Rear view of modern home with pool",
       title: "Grocery List App",
       category: "MOBILE APP",
-      desc: "I made this",
+      desc: "Track your food consumption and stock",
       tech: ["React Native", "Javascript", "GraphQl"],
     },
     {
@@ -133,7 +134,7 @@ export const Projects: React.FC = () => {
       imageAlt: "Skin",
       title: "Sistem Antrean Online",
       category: "MOBILE APP",
-      desc: "A web where you get to know your basic skin care needs",
+      desc: "An app to provide online queue in a hospital",
       tech: ["React Native", "Javascript", "GraphQl", "TypeScript"],
     },
     {
@@ -144,6 +145,22 @@ export const Projects: React.FC = () => {
       desc: "A landing page of visual novel",
       tech: ["HTML", "Javascript", "CSS", "Monogatari"],
     },
+    {
+      imageUrl: "https://bit.ly/2Z4KKcF",
+      imageAlt: "Skin",
+      title: "Sentence Similarity",
+      category: "WEB APP",
+      desc: "A web to compare whether a sentence is similar or not",
+      tech: ["HTML", "Javascript", "CSS", "Python"],
+    },
+    {
+      imageUrl: "https://bit.ly/2Z4KKcF",
+      imageAlt: "Skin",
+      title: "Aspect Extraction of Beauty Products",
+      category: "WEB APP",
+      desc: "A web to extract aspect in beauty products",
+      tech: ["HTML", "Javascript", "CSS", "Python"],
+    },
   ];
   return (
     <ChakraProvider theme={themes}>
@@ -152,19 +169,19 @@ export const Projects: React.FC = () => {
         bgImage={`url(${grid})`}
         backgroundRepeat="repeat"
         css={{ "background-blend-mode": "multiply" }}
-        height={window.innerHeight}
+        minH={window.innerHeight}
       >
-        <Box textAlign="left" width="70%">
+        <Box textAlign="left" width="960px">
           <Text fontSize="36px" fontFamily={themes.fonts.abril} mt={58}>
             Projects
           </Text>
-          <HStack>
+          <Flex flexWrap="wrap">
             {Array(exa.length)
               .fill("")
               .map((_, i) => (
                 <ProjectItem project={exa[i]}></ProjectItem>
               ))}
-          </HStack>
+          </Flex>
         </Box>
       </Center>
     </ChakraProvider>
